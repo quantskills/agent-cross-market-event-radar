@@ -113,3 +113,7 @@ py -3.10 tests/test_radar.py
 - `references/methodology.md`: standardization, correlation, and ranking logic.
 - `references/data-and-outputs.md`: data sources and public output files.
 - `references/agent-boundary.md`: what the Agent does and does not do.
+
+## Pandadata compatibility
+
+[Pandadata 1.0.6 compatibility](references/pandadata-compatibility.md) — exact SDK baseline, validation scope, and shared guidance for all supported agent runtimes.
